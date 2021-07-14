@@ -1,2 +1,2 @@
-# hello-world
-my first project
+# LcSoft Composite Sys
+ LcSoft Composite Sys
